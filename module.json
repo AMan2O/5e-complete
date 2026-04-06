@@ -26,8 +26,8 @@
     "url": "https://github.com/AMan2O/5e-complete",
     "bugs": "https://github.com/AMan2O/5e-complete/issues",
     "flags": {},
-    "manifest": "https://raw.githubusercontent.com/AMan2O/5e-complete/main/download/module.json",
-    "download": "https://raw.githubusercontent.com/AMan2O/5e-complete/main/download/5e-complete-V13.zip",
+    "manifest": "https://raw.githubusercontent.com/AMan2O/5e-complete/main/module.json",
+    "download": "https://raw.githubusercontent.com/AMan2O/5e-complete/main/5e-complete-V13.zip",
     "protected": false,
     "coreTranslation": false,
     "packs": [
